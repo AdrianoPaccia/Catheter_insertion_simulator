@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GeomagicReceiver", "SlidingContact_VS2010.vcxproj", "{52D91B54-B341-44C6-875D-D7AA7CF30659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		DebugAcademicEdition|x64 = DebugAcademicEdition|x64
+		DebugAcademicEdition|x86 = DebugAcademicEdition|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		ReleaseAcademicEdition|x64 = ReleaseAcademicEdition|x64
+		ReleaseAcademicEdition|x86 = ReleaseAcademicEdition|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52D91B54-B341-44C6-875D-D7AA7CF30659}.Debug|x64.ActiveCfg = Debug|x64
+		{52D91B54-B341-44C6-875D-D7AA7CF30659}.Debug|x64.Build.0 = Debug|x64
+		{52D91B54-B341-44C6-875D-D7AA7CF30659}.Debug|x86.ActiveCfg = Debug|Win32
+		{52D91B54-B341-44C6-875D-D7AA7CF30659}.Debug|x86.Build.0 = Debug|Win32
+		{52D91B54-B341-44C6-875D-D7AA7CF30659}.DebugAcademicEdition|x64.ActiveCfg = DebugAcademicEdition|x64
+		{52D91B54-B341-44C6-875D-D7AA7CF30659}.DebugAcademicEdition|x64.Build.0 = DebugAcademicEdition|x64
+		{52D91B54-B341-44C6-875D-D7AA7CF30659}.DebugAcademicEdition|x86.ActiveCfg = DebugAcademicEdition|Win32
+		{52D91B54-B341-44C6-875D-D7AA7CF30659}.DebugAcademicEdition|x86.Build.0 = DebugAcademicEdition|Win32
+		{52D91B54-B341-44C6-875D-D7AA7CF30659}.Release|x64.ActiveCfg = Release|x64
+		{52D91B54-B341-44C6-875D-D7AA7CF30659}.Release|x64.Build.0 = Release|x64
+		{52D91B54-B341-44C6-875D-D7AA7CF30659}.Release|x86.ActiveCfg = Release|Win32
+		{52D91B54-B341-44C6-875D-D7AA7CF30659}.Release|x86.Build.0 = Release|Win32
+		{52D91B54-B341-44C6-875D-D7AA7CF30659}.ReleaseAcademicEdition|x64.ActiveCfg = ReleaseAcademicEdition|x64
+		{52D91B54-B341-44C6-875D-D7AA7CF30659}.ReleaseAcademicEdition|x64.Build.0 = ReleaseAcademicEdition|x64
+		{52D91B54-B341-44C6-875D-D7AA7CF30659}.ReleaseAcademicEdition|x86.ActiveCfg = ReleaseAcademicEdition|Win32
+		{52D91B54-B341-44C6-875D-D7AA7CF30659}.ReleaseAcademicEdition|x86.Build.0 = ReleaseAcademicEdition|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E76E24A-5333-4806-AD75-1F26EC232929}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\OpenHaptics\Developer\3.4.0\examples\HD\graphics\GeomagicReceiver\main.cpp(148,37): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\OpenHaptics\Developer\3.4.0\examples\HD\graphics\GeomagicReceiver\main.cpp(164,8): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\OpenHaptics\Developer\3.4.0\examples\HD\graphics\GeomagicReceiver\main.cpp(161,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SlidingContact_VS2010.vcxproj -> C:\OpenHaptics\Developer\3.4.0\examples\HD\graphics\GeomagicReceiver\x64\Release\GeomagicReceiver.exe
+  Sottodirectory o file C:\OpenHaptics\Developer\3.4.0\examples\HD\graphics\GeomagicReceiver\\..\..\bin\x64\HD già esistente.
+          1 file copiati.
